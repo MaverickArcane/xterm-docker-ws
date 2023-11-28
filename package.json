@@ -8,6 +8,6 @@
     "xterm": "^5.3.0"
   },
   "scripts": {
-    "start": "node backend.js"
+    "start": "node app.js"
   }
 }
